@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1462767929 source:/home/stone/Documents/msg/receiver2/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/stat.h>
+	<sys/msg.h>
+
+1493357657 source:/home/stone/Desktop/some simple demos for linux by using codeblocks/msg/receiver2/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/stat.h>
+	<sys/msg.h>
+
+1525314830 source:/home/stone/Desktop/msg/receiver2/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/stat.h>
+	<sys/msg.h>
+
